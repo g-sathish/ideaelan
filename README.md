@@ -124,7 +124,7 @@ Download all the questions from [here](https://github.com/g-sathish/tcs-nqt-2021
 <script 
         async
         src="https://utteranc.es/client.js"
-        repo="g-sathish/tcs-nqt-2021"
+        repo="g-sathish/ideaelan"
         issue-term="title"
         theme="github-light"
         crossorigin="anonymous"
