@@ -77,22 +77,22 @@ Download the teaching / learning material to follow along from [here]()
   - Solution - Java Implementation [Ideone it!](https://ideone.com/hFQeJk)
   - Solution - JavaScript Implementation [Ideone it!]()
 - Exercise 2
-  - [Problem Statement]()
-  - [Algorithm]()
+  - [Problem Statement](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%202%20Problem%20Statement.pdf)
+  - [Algorithm](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%202%20Algorithm.pdf)
   - Solution - Java Implementation [Ideone it!](https://ideone.com/uJHj81)
 - Exercise 3
-  - Problem Statement
-  - Algorithm
+  - [Problem Statement](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%203%20Problem%20Statement.pdf)
+  - [Algorithm](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%203%20Algorithm.pdf)
   - Solution - Java Implementation [Ideone it!](https://ideone.com/louDyp)
   - Solution - JavaScript Implementation [Ideone it!]()
 - Exercise 4
-  - Problem Statement
-  - Algorithm
+  - [Problem Statement](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%204%20Problem%20Statement.pdf)
+  - [Algorithm](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%204%20Algorithm-2.pdf)
   - Solution - Java Implementation [Ideone it!](https://ideone.com/Er8YnD)
   - Solution - JavaScript Implementation [Ideone it!]()
 - Exercise 5
-  - Problem Statement
-  - Algorithm
+  - [Problem Statement](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%205%20Problem%20Statement.pdf)
+  - [Algorithm](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise%20-%205%20Algorithm.pdf)
   - Solution - Java Implementation [Ideone it!](https://ideone.com/AZrluZ)
   - Solution - JavaScript Implementation [Ideone it!](https://ideone.com/26IPNX)
 - Exercise 6
