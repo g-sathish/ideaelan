@@ -49,14 +49,14 @@
 ## Training Curriculum
 
 - Arrays
-  - Teaching / Learning Material
+  - [Teaching / Learning Material](https://github.com/g-sathish/ideaelan/raw/master/exercises/Arrays-Concept.pdf)
   - Example Exercises
-    - Exercise 1
-    - Exercise 2
+    - Exercise 1 Array Rotation
+    - Exercise 2 Reverse an Array
   - Practice Exercises
-    - Exercise 3
-    - Exercise 4
-    - Exercise 5
+    - Exercise 3 Move all zeros to end of array
+    - Exercise 4 Find second largest element in an array 
+    - Exercise 5 Check for pair in A[] with sum as x, Given an array A[] and a number x
 - Strings
   - Teaching / Learning Material
   - Example Exercises
@@ -72,8 +72,8 @@
 Download the teaching / learning material to follow along from [here]()
 
 - Exericse 1
-  - [Problem Statement]()
-  - [Algorithm]() 
+  - [Problem Statement](https://github.com/g-sathish/ideaelan/raw/master/exercises/Exercise-1%20PS.pdf)
+  - [Algorithm](https://github.com/g-sathish/ideaelan/blob/master/exercises/Exercise-1%20Algorithm.pdf) 
   - Solution - Java Implementation [Ideone it!](https://ideone.com/hFQeJk)
   - Solution - JavaScript Implementation [Ideone it!](https://ideone.com/hFQeJk)
 - Exercise 2
