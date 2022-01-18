@@ -118,7 +118,7 @@ Download the teaching / learning material to follow along from [here]()
 
 ## Exercises at HackerRank page
 
-- [Solve the exercises at HackerRank]()
+- [Register and Solve the exercises at HackerRank](https://www.hackerrank.com/ideaelan)
 
 <script 
         async
