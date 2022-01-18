@@ -72,9 +72,10 @@
 Download the teaching / learning material to follow along from [here]()
 
 - Exericse 1
-  - Problem Statement
-  - Algorithm
-  - Solution
+  - [Problem Statement]()
+  - [Algorithm]() 
+  - Solution - Java Implementation [Ideone it!](https://ideone.com/hFQeJk)
+  - Solution - JavaScript Implementation [Ideone it!](https://ideone.com/hFQeJk)
 - Exercise 2
   - Problem Statement
   - Algorithm
